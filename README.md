@@ -1,3 +1,7 @@
+# Shattered Funkin
+
+Shattered Funkin is a mod for a 2014 semi-obscure game "Smash Hit" by Mediocre AB. (The Source code is just here for now until we decide to add a custom menu) This mod shows Smash Hit Bosses (the ones you see in Mayhem).
+
 # Friday Night Funkin' - Psych Engine
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
